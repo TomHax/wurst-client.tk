@@ -10,4 +10,4 @@ labels:
 {:toc}
 
 ## Overview
-SpeedNuker is a faster version of [Nuker](/wiki/Mods/Nuker/) that cannot bypass NoCheat+.
+SpeedNuker is a faster version of [Nuker](/wiki/Mods/Nuker/) that cannot bypass NoCheat+.This mod usually breaks grass (tall) and other cleavage. The mod is not that useful on most servers.
